@@ -1,0 +1,212 @@
+* {
+	margin:0 auto;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+
+.container {
+	width: 80%;
+	margin:0 auto;
+}
+
+.menu {
+	background-color: #278BAD;
+}
+
+.conejos {
+	font-family: 'baloo paaji';
+	color:white;
+	margin-left: 117px;
+	display:inline-block;
+}
+
+.bunny {
+	color:#AD1193;
+}
+
+.menu {
+	text-decoration: none;
+	display:inline-block;
+	color:white;
+	font-family: 'Prompt';
+	font-weight: 100;
+	font-size: 13px;
+	padding-left: 30px;
+	padding-top: 6px;
+}
+.barra {
+	visibility: hidden;
+	display: none;
+}
+
+.icon-bars {
+	font-size: 10px;
+	position:relative;
+	left:370px;
+	top:50px;
+}
+
+.hero {
+	background:url(../img/img-1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	padding-bottom: 100px;
+}
+.banner {
+	background-color: #278BAD;
+	opacity: 0.8;
+	position:relative;
+	top:53px;
+	margin-left: 100px;
+	margin-right: 100px;
+	padding-bottom: 100px;
+
+}
+.title {
+	position:relative;
+	font-family: 'baloo paaji';
+	color:#AD1193;
+	font-size: 80px;
+	padding-left: 207px;
+	padding-top: 60px;
+	padding-bottom: 30px;
+}
+.frases {
+	font-family: 'Prompt';
+	text-align: center;
+	font-size: 15px;
+	color:white;
+	word-spacing: 20px;
+	padding-left: 36%;
+	margin-bottom: 50px;
+}
+.image {
+	text-align: center;
+}
+.pic {
+	max-width: 90%;
+	margin:0;
+}
+.cuadro {
+	
+}
+.text {
+	text-align: center;
+	background-color: #278BAD;
+	max-width: 90%;
+	font-family: 'Prompt';
+	color:#E7D9EA;
+	font-size: 13px;
+	height:250px;
+	margin-top:-4px;
+}
+h3 {
+	font-family: 'baloo paaji';
+	color:#AD1193;
+	padding-top:20px;
+	text-align: center;
+}
+.info {
+	text-align: center;
+	padding:20px;
+}
+.background {
+	background-color: #278BAD;
+	margin-top: 20px; 
+}
+.boxconejo {
+	margin-top:15px;
+	padding-left:15px;
+	box-sizing:border-box;
+}
+.ginger {
+	max-width: 100%;
+}
+.texto {
+	background-color: white;
+	margin-top:-4px;
+	font-family: 'Prompt';
+	font-size: 15px;
+}
+.fecha {
+	padding:15px;
+}
+.video {
+	max-width: 100%;
+}
+.descripcion {
+	padding:15px;
+	font-family: 'Prompt';
+	background-color: white;
+	font-size: 15px;
+	margin-top:-4px;
+	margin-bottom: 15px;
+}
+.search {
+	background-color: #DCE5EA;
+	border-radius: 5px;
+	height:100px;
+	margin-top: 15px;
+}
+form input {
+	margin-top: 15px;
+	border-radius: 5px;
+	font-size: 25px;
+	margin-left: 36px;
+	margin-top: 30px;
+	padding-left: 15px;
+}
+.hola {
+	max-width: 100%;
+	margin-top: 10px;
+}
+
+/*iconos*/
+.fa{
+font-size: 40px;
+color: #3277A2;	
+border-radius: 200px 200px 200px 200px;
+-moz-border-radius: 200px 200px 200px 200px;
+-webkit-border-radius: 200px 200px 200px 200px;
+border: 10px solid #ffffff;
+background: white;
+}
+
+/*ul de lista de iconos*/
+.ul-iconos{
+text-align: center;
+}
+
+/*lista de iconos*/
+.iconos{
+margin-right: 10px;
+text-align: center;
+display: inline-block;
+}
+/*CONEJos ABAJO*/
+.footer-cabezas{
+background-image: url(../img/bunny-head.png);
+position:center;
+background-repeat: repeat-x;
+zoom:0.16;
+padding-top: 4%;
+padding-bottom: 4%;
+margin-top: 70px;
+}
+
+/*footer*/
+footer{
+	text-align: center;
+	background-color: #3277A2;
+}
+
+/*todo el footer texto y mas*/
+.all-foot{
+	border-top:#F97557 3px solid;
+	padding:25px;
+	color: white;
+	font-size: 15px;
+	font-family: 'Prompt', sans-serif ;
+}
