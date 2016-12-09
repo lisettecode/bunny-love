@@ -1,0 +1,63 @@
+@media (max-width : 479px) {
+
+	.title {
+		color:#AD1193;
+		font-size: 36px;
+		padding-left: 50px;
+
+	}
+
+	.subtitle {
+	font-size: 12px;
+	word-spacing: 10px;
+	padding-left: 23%;
+	margin-bottom: 50px;
+	}
+	
+	.hamburguesa {
+		visibility:visible;
+	}
+	.col-5 {
+		display:none;
+	}
+	.burger {
+		display:block;
+		visibility:visible;
+	}
+	.menu {
+		display:none;
+	}
+
+	.bunny {
+	font-family: 'baloo paaji';
+	color:white;
+	margin-left: 10px;
+	}
+	
+	.banner {
+	background-color: #278BAD;
+	opacity: 0.8;
+	position:relative;
+	top:53px;
+	margin-left: 40px;
+	margin-right: 40px;
+	padding-bottom: 61px;
+
+	}
+	.bunny {
+	position:relative;
+	bottom:30px;
+	}
+
+	.icon-bars {
+		top:30px;
+	}
+	
+	.footer-conejitos {
+		padding-bottom: 80px;
+		margin-top: 70px;
+		padding-top:20%;
+	}
+
+
+}
